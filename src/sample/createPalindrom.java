@@ -1,6 +1,6 @@
 package sample;
 
-public class Main {
+public class createPalindrom {
     static int invalid = 0;
 
     public static void main(String[] args) {

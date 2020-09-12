@@ -1,4 +1,4 @@
-package com.paypal;
+package sample;
 
 public class Main {
     static int invalid = 0;

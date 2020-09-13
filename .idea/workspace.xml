@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761d6be6-ae36-4583-8a54-df8593da1e3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sample/testCases.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding_samples/sample/createPalindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_samples/sample/createPalindrom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/createPalindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/createPalindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/testCases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/testCases.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

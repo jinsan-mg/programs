@@ -102,7 +102,7 @@ public class createPalindromeInd {
         return flags;
     }
 
-    public static int formString(int totalLength, int charCount,int numCount, int specialChar){
+    public static void formString(int totalLength, int charCount,int numCount, int specialChar){
         int i, j, k = 0;
         for (i=0;i<charCount/2;i++){
             output[i] = getAsciiValue(i + 97);
@@ -116,6 +116,5 @@ public class createPalindromeInd {
             output[k] = getAsciiValue(k-j + 33);
             output[totalLength - 1 - k] = getAsciiValue(k-j + 33);
         }
-        return k;
     }
 }

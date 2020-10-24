@@ -4,7 +4,8 @@ public class createPalindrom {
     static int invalid = 0;
 
     public static void main(String[] args) {
-        String[] inp = args;
+        //String[] inp = args;
+        String[] inp = {"4", "0", "0", "4"};
         if(inp.length!=4){
             invalid=1;
         }
